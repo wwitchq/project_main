@@ -1,0 +1,4 @@
+class Config:
+    MIN_UPDATE_INTERVAL = 100
+    MAX_UPDATE_INTERVAL = 6000
+    UPDATE_INTERVAL = 1000 # milliseconds
